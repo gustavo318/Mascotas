@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="item_favorite_name">Favorites</string>
+    <string name="toast_camera_button">Camera button touched!</string>
+    <string name="Mascot">Mascot</string>
+
+</resources>

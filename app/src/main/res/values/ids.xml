@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbarMain" type="id" />
+    <item name="floatingButtonMain" type="id" />
+    <item name="recyclerPet" type="id" />
+    <item name="toolbarFavoritePets" type="id" />
+    <item name="recyclerFavoritePets" type="id" />
+    <item name="favorite" type="id" />
+</resources>

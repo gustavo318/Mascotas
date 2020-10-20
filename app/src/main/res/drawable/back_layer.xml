@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/ic_back"
+        android:gravity="center"
+        android:right="16dp"/>
+    <item android:drawable="@drawable/ic_pet"
+        android:gravity="center"
+        android:left="16dp"/>
+</layer-list>
